@@ -1,4 +1,4 @@
-# Please review the link below to understand the state of the experement
+# Please review the links below to understand the state of the experement
 
 ###### Matrix: https://docs.google.com/document/d/1iko2huaMBlpN_GfeH-4wTYUIe68--ewtzVnwyTpGYNY/edit
 
