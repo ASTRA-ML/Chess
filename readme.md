@@ -9,3 +9,5 @@
 ###### Slide show: https://docs.google.com/presentation/d/1rDvU4DhQ9f1wOajNv7tGNlWzMP0_6mKZEOGIUqCf0Q0/edit?usp=sharing
 
 ###### Blog: https://chrisgreenblogs.blogspot.com/
+
+###### Final thoughts and Summary: https://docs.google.com/document/d/1NTIoSEheaCpwbKIR2HO13KgvIYGnXuPRo9BBNo2mJCI/edit
